@@ -1,0 +1,23 @@
+{
+  "activitiesAmount.currentVenue": "Activities at this venue ({{amount}})",
+  "activitiesAmount.nearestVenues": "Activities at nearby venues ({{amount}})",
+  "bookings.available": "Available",
+  "bookings.locked": "Locked",
+  "bookings.lockASpot": "Lock a spot",
+  "bookings.lockASpotDescription": "Are you sure you want to lock this spot?",
+  "bookings.unlockASpot": "Unlock a spot",
+  "bookings.unlockASpotDescription": "Are you sure you want to unlock this spot?",
+  "bookings.courtInformation.title": "The court is {{court}}.",
+  "bookings.courtInformation.text": "Get ready for your upcoming booking. Wishing you the best of luck!",
+  "bookings.viewDetails": "View booking details",
+  "bookings.paidByBooker": "Paid by the booker",
+  "bookings.paidForEntireBooking": "The booker has paid for the entire booking.",
+  "bookings.paymentInformation": "Payment information",
+  "bookings.paymentInformation.text": "You have selected to split the booking cost with the participants. Discounts are applied separately to each individual player's part of the booking",
+  "bookings.addToCalendar": "Add to calendar",
+  "bookings.addToCalendarFailure": "Could not add booking to \"%{name}\" calendar.",
+  "bookings.addToCalendarNotFound": "Could not find any editable calendars on this device.",
+  "bookings.addToCalendarSuccess": "Booking added to \"%{name}\" calendar.",
+  "bookings.addToCalendarNotFound2": "Could not find any editable calendars on this device test.",
+  "bookings.addToCalendarSuccess2": "Booking added to \"%{name}\" calendar test."
+}
