@@ -1,0 +1,23 @@
+{
+  "activitiesAmount.currentVenue": "Actividades en este lugar ({{cantidad}})",
+  "activitiesAmount.nearestVenues": "Actividades en lugares cercanos ({{cantidad}})",
+  "bookings.available": "Disponible",
+  "bookings.locked": "Bloqueado",
+  "bookings.lockASpot": "Bloquear un lugar",
+  "bookings.lockASpotDescription": "¿Estás seguro que deseas bloquear este lugar?",
+  "bookings.unlockASpot": "Desbloquear un lugar",
+  "bookings.unlockASpotDescription": "¿Estás seguro que deseas desbloquear este lugar?",
+  "bookings.courtInformation.title": "El tribunal es {{court}}.",
+  "bookings.courtInformation.text": "Prepárate para tu próxima reserva. ¡Te deseamos mucha suerte!",
+  "bookings.viewDetails": "Ver detalles de la reserva",
+  "bookings.paidByBooker": "Pagado por el booker",
+  "bookings.paidForEntireBooking": "El reservador ha pagado la totalidad de la reserva.",
+  "bookings.paymentInformation": "Información de pago",
+  "bookings.paymentInformation.text": "Has seleccionado dividir el coste de la reserva con los participantes. Los descuentos se aplican por separado a la parte de la reserva de cada jugador.",
+  "bookings.addToCalendar": "Añadir al calendario",
+  "bookings.addToCalendarFailure": "No se pudo agregar la reserva al calendario &quot;% {name} &quot;.",
+  "bookings.addToCalendarNotFound": "No se pudo encontrar ningún calendario editable en este dispositivo.",
+  "bookings.addToCalendarSuccess": "Reserva añadida al calendario &quot;% {name} &quot;.",
+  "bookings.addToCalendarNotFound2": "No se pudo encontrar ningún calendario editable en esta prueba del dispositivo.",
+  "bookings.addToCalendarSuccess2": "Reserva añadida al calendario de prueba &quot;% {name} &quot;."
+}
