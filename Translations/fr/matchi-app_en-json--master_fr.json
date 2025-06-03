@@ -1,0 +1,23 @@
+{
+  "activitiesAmount.currentVenue": "Activités sur ce lieu ({{amount}})",
+  "activitiesAmount.nearestVenues": "Activités dans les lieux à proximité ({{amount}})",
+  "bookings.available": "Disponible",
+  "bookings.locked": "Fermé",
+  "bookings.lockASpot": "Verrouiller une place",
+  "bookings.lockASpotDescription": "Êtes-vous sûr de vouloir verrouiller cet endroit ?",
+  "bookings.unlockASpot": "Débloquer une place",
+  "bookings.unlockASpotDescription": "Êtes-vous sûr de vouloir déverrouiller cet endroit ?",
+  "bookings.courtInformation.title": "Le tribunal est {{court}}.",
+  "bookings.courtInformation.text": "Préparez-vous pour votre prochaine réservation. Bonne chance !",
+  "bookings.viewDetails": "Afficher les détails de la réservation",
+  "bookings.paidByBooker": "Payé par le booker",
+  "bookings.paidForEntireBooking": "Le réservataire a payé la totalité de la réservation.",
+  "bookings.paymentInformation": "Informations de paiement",
+  "bookings.paymentInformation.text": "Vous avez choisi de partager les frais de réservation avec les participants. Les réductions sont appliquées séparément à la part de réservation de chaque participant.",
+  "bookings.addToCalendar": "Ajouter au calendrier",
+  "bookings.addToCalendarFailure": "Impossible d&#39;ajouter la réservation au calendrier « % {name} ».",
+  "bookings.addToCalendarNotFound": "Aucun calendrier modifiable n&#39;a été trouvé sur cet appareil.",
+  "bookings.addToCalendarSuccess": "Réservation ajoutée au calendrier « % {name} ».",
+  "bookings.addToCalendarNotFound2": "Aucun calendrier modifiable n&#39;a été trouvé sur cet appareil de test.",
+  "bookings.addToCalendarSuccess2": "Réservation ajoutée au test de calendrier « % {name} »."
+}
