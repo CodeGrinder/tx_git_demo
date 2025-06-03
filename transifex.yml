@@ -1,0 +1,6 @@
+filters:
+- filter_type: file
+  file_format: KEYVALUEJSON
+  source_file: source/matchi-app_en-json--master_en.json
+  source_language: en
+  translation_files_expression: 'Translations/<lang>/matchi-app_en-json--master_<lang>.json'
