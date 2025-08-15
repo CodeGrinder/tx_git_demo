@@ -1,0 +1,32 @@
+"home.buyingPowerRow.title" = "Poder adquisitivo";
+
+/* Disclosure markdown displayed at the bottom of the home screen */
+"home.footerDisclosure.markdown" = "Los mercados de criptomonedas son altamente volátiles, y comerciar o mantener criptomonedas puede llevar a la pérdida de tus activos. Las criptomonedas no son moneda de curso legal, no están respaldadas por ningún gobierno ni cubiertas por ningún esquema de compensación gubernamental.";
+
+"home.topCrypto.sheet.title" = "Criptomonedas principales";
+"home.topCrypto.sheet.subtitle" = "Esta lista se basa en las criptomonedas disponibles en Robinhood ordenadas por capitalización de mercado.";
+"home.topCrypto.sheet.cta" = "De acuerdo";
+
+"home.rewardSection.title" = "Recompensas";
+
+// MARK: - Daily Movers
+
+"home.dailyMovers.toolTip.description" = "Criptomonedas en Robinhood con los mayores cambios de precio en las últimas 24 horas.";
+
+// MARK: - Watchlist
+
+"home.watchlist.toolTip.title" = "Lista de seguimiento";
+"home.watchlist.toolTip.description" = "La lista de seguimiento es una lista personalizada donde puedes agregar monedas para rastrear fácilmente su rendimiento en un solo lugar.";
+"home.watchlist.toolTip.description.tokenizedStockAndPerps" = "La lista de seguimiento es una lista personalizada donde puedes agregar criptomonedas y tokens de acciones para seguir fácilmente su rendimiento en un solo lugar.\n\nLa adición de futuros perpetuos no está soportada en este momento.";
+
+// MARK: - Buying Power
+
+"home.buyingPowerBreakdown.tooltip" = "Toca para depositar efectivo";
+
+// MARK: - Share Screenshot Sheet
+
+"home.shareScreenshotSheet.default.title" = "Robinhood";
+
+// MARK: - Pending Orders
+
+"home.pendingOrdersSection.title" = "Órdenes pendientes";
