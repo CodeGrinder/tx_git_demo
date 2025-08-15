@@ -16,3 +16,9 @@ filters:
   source_file: source/RHCCryptoHome-strings_en.strings
   source_language: en
   translation_files_expression: 'Translations/<lang>/RHCCryptoHome-strings_<lang>.strings'
+
+- filter_type: file
+  file_format: STRINGS_UTF8
+  source_file: source/RHCCryptoHome-strings_en_2.strings
+  source_language: en
+  translation_files_expression: 'Translations/<lang>/RHCCryptoHome-strings_2_<lang>.strings'
