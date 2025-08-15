@@ -5,9 +5,14 @@ filters:
   source_language: en
   translation_files_expression: 'Translations/<lang>/matchi-app_en-json--master_<lang>.json'
 
-
 - filter_type: file
   file_format: STRINGS_UTF8
   source_file: source/rhc-ios_Features-RHCCryptoHome-Localizable-RHCCryptoHome-strings_en.strings
   source_language: en
   translation_files_expression: 'Translations/<lang>/rhc-ios_Features-RHCCryptoHome-Localizable-RHCCryptoHome-strings_<lang>.strings'
+
+- filter_type: file
+  file_format: STRINGS_UTF8
+  source_file: source/RHCCryptoHome-strings_en.strings
+  source_language: en
+  translation_files_expression: 'Translations/<lang>/RHCCryptoHome-strings_<lang>.strings'
