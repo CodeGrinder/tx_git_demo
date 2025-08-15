@@ -1,0 +1,32 @@
+"home.buyingPowerRow.title" = "Buying power";
+
+/* Disclosure markdown displayed at the bottom of the home screen */
+"home.footerDisclosure.markdown" = "Crypto markets are highly volatile, and trading or holding crypto can lead to loss of your assets. Crypto is not legal tender, and is not backed by any government or covered by any government compensation scheme.";
+
+"home.topCrypto.sheet.title" = "Top crypto";
+"home.topCrypto.sheet.subtitle" = "This list is based on crypto available on Robinhood ordered by market cap.";
+"home.topCrypto.sheet.cta" = "OK";
+
+"home.rewardSection.title" = "Rewards";
+
+// MARK: - Daily Movers
+
+"home.dailyMovers.toolTip.description" = "Crypto on Robinhood with the biggest price changes in the past 24 hours.";
+
+// MARK: - Watchlist
+
+"home.watchlist.toolTip.title" = "Watchlist";
+"home.watchlist.toolTip.description" = "Watchlist is a personalized list where you can add coins to easily track their performance in one place.";
+"home.watchlist.toolTip.description.tokenizedStockAndPerps" = "Watchlist is a personalized list where you can add crypto and Stock Tokens to easily track their performance in one place.\n\nAdding perpetual futures isn’t supported at this time.";
+
+// MARK: - Buying Power
+
+"home.buyingPowerBreakdown.tooltip" = "Tap to deposit cash";
+
+// MARK: - Share Screenshot Sheet
+
+"home.shareScreenshotSheet.default.title" = "Robinhood";
+
+// MARK: - Pending Orders
+
+"home.pendingOrdersSection.title" = "Pending orders";
