@@ -15,4 +15,4 @@ filters:
   file_format: STRINGS_UTF8
   source_file: source/RHCCryptoHome-strings_en.strings
   source_language: en
-  translation_files_expression: 'Translations/<lang>/RHCCryptoHome-strings_<lang>.strings'
+  translation_files_expression: 'Translations/<lang>/RHCCryptoHome-strings_<lang>_.strings'
